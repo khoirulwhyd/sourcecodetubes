@@ -1,0 +1,28 @@
+{
+  "pengembalian": [
+    {
+      "noidentitas": "",
+      "status": "Mahasiswa",
+      "nama": "Hamdan",
+      "alamat": "Magetan",
+      "nohp": "081717456911",
+      "judulbuku": "Secercah Cahaya",
+      "tanggalpinjam": "2022-04-20",
+      "tanggalkembali": "2022-04-27",
+      "id": 1649216993037,
+      " noidentitas": "3520082021010001"
+    },
+    {
+      "id": 1649217064151,
+      "noidentitas": "",
+      "status": "wdwd",
+      "nama": "wdwd",
+      "alamat": "wdw",
+      "nohp": "2323",
+      "judulbuku": "dwdwd",
+      "tanggalpinjam": "2022-04-13",
+      "tanggalkembali": "2022-04-27",
+      " noidentitas": "3232"
+    }
+  ]
+}

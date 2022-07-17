@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,600;1,500;1,600;1,800&display=swap");
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

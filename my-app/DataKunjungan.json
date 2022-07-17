@@ -1,0 +1,28 @@
+{
+  "kunjungan": [
+    {
+      "id": 1649810014782,
+      "nama": "Hamdan Fauzi",
+      "jeniskelamin": "Laki-laki",
+      "keperluan": "Meminjam Buku"
+    },
+    {
+      "id": 1649810369118,
+      "nama": "Agung",
+      "jeniskelamin": "Laki-laki",
+      "keperluan": "Membaca Buku"
+    },
+    {
+      "id": 1649810481157,
+      "nama": "lisa",
+      "jeniskelamin": "perem[uan",
+      "keperluan": "mengembalikan buku"
+    },
+    {
+      "id": 1649810515423,
+      "nama": "mina",
+      "jeniskelamin": "perempuan",
+      "keperluan": "meminjam buku"
+    }
+  ]
+}

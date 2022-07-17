@@ -1,0 +1,36 @@
+{
+  "buku": [
+    {
+      "id": 1649770137046,
+      "kode": "MD001",
+      "judul": "Matematika Diskrit",
+      "pengarang": "Khoirul ",
+      "penerbit": "Polinema",
+      "tahunTerbit": "2019"
+    },
+    {
+      "id": 1649772386434,
+      "kode": "MD002",
+      "judul": "Matematika Diskrit",
+      "pengarang": "Khoirul",
+      "penerbit": "Polinema",
+      "tahunTerbit": "2019"
+    },
+    {
+      "id": 1649773880013,
+      "kode": "FK002",
+      "judul": "Fisika",
+      "pengarang": "Romadhon",
+      "penerbit": "Polinema",
+      "tahunTerbit": "2019"
+    },
+    {
+      "id": 1649170777658,
+      "kode": "MD002",
+      "judul": "Peran Teknologi Informasi",
+      "pengarang": "Ubaidillah",
+      "penerbit": "Surya Citra",
+      "tahunTerbit": "2001"
+    }
+  ]
+}
